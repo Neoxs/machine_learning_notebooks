@@ -38,3 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# venv
+venv
+
+# jupyter checkpoints
+*.ipynb_checkpoints
