@@ -36,14 +36,6 @@ This repository contains sevral of beginner guide notebooks that explain how to 
   </tr>
   
   <tr>
-    <td class="tg-yw4l">Decision Tree Regression</td>
-    <td class="tg-yw4l">Splitting data by asking questions, yes those are decision trees.</td>
-    <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/tree/main/clustering">
-  here
-</a></td>
-  </tr>
-  
-  <tr>
     <td class="tg-yw4l">Movies Recommender systems</td>
     <td class="tg-yw4l">In this notebook we tried to build diffrente recommender systems (popularity and collaborative filtering based) for movies recommendation using netflix rating dataset</td>
     <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/blob/main/recommender_systems/movie_recommendation.ipynb">
