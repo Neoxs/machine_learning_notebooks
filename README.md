@@ -1,6 +1,6 @@
 # Machine learning notebooks
 
-This repository contains sevral of beginner guide notebooks that explain how to solve common problems using machine learnings algorithms.
+This repository contains several beginner guide notebooks that explain how to solve common problems using machine learning algorithms.
 
 ## Table of content
 
