@@ -1,53 +1,62 @@
-# Machine_Learning_University_Of_Washington 
+# Machine_Learning_Notebooks
 
-This course can be found at [Coursera](https://www.coursera.org/learn/ml-foundations)
+This repository contains sevral of beginner guide notebooks that explain how to solve common problems using machine learnings algorithms.
 
-## About this Course
-In this course, you will get hands-on experience with machine learning from a series of practical case-studies.  At the end of the first course you will have studied how to predict house prices based on house-level features, analyze sentiment from user reviews, retrieve documents of interest, recommend products, and search for images.  Through hands-on practice with these use cases, you will be able to apply machine learning methods in a wide range of domains.
+## Table of content
 
-## Learning outcomes
-By the end of this course, you will be able to:<br>
-   - Identify potential applications of machine learning in practice.  
-   - Describe the core differences in analyses enabled by regression, classification, and clustering.
-   - Select the appropriate machine learning task for a potential application.  
-   - Apply regression, classification, clustering, retrieval, recommender systems, and deep learning.
-   - Represent your data as features to serve as input to machine learning models. 
-   - Assess the model quality in terms of relevant error metrics for each task.
-   - Utilize a dataset to fit a model to analyze new data.
-   - Build an end-to-end application that uses machine learning at its core.  
-   - Implement these techniques in Python.
-
-
-- ## Week 1 - Introduction
-    - Why you should learn machine learning with us
-    - Who this specialization is for and what you will be able to do
-    - Getting started with Python, Jupyter Notebook & Turi Create
-    - Getting started with SFrames for data engineering and analysis
-        
-- ## Week 2 - Regression
-    - Linear regression modeling
-    - Evaluating regression models
-    - Summary of regression
-        
-- ## Week 3 Classification: Analyzing Sentiment 
-    - Classification modeling
-    - Evaluating classification models
-    - Summary of classification
-
-- ## Week 4 - Clustering and Similarity: Retrieving Documents
-    - Algorithms for retrieval and measuring similarity of documents
-    - Clustering models and algorithms
-    - Summary of clustering and similarity
-        
-
-- ## Week 5 - Recommender systems
-    - About Recommender systems
-    - Co-occurrence matrices for collaborative filtering
-    - Matrix factorization
-    - Performance metrics for recommender systems
-    - Summary of recommender systems
-        
-- ## Week 6 - Deep Learning
-    - Neural networks: Learning very non-linear features
-    - Deep learning & deep features
-    - Summary of deep learning
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Challenge</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">US house price prediction</td>
+    <td class="tg-yw4l">Use the US house price dataset to predict the estimated value for a certain house.</td>
+    <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/tree/main/regression">
+    here
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Amazon products Sentiment analysis</td>
+    <td class="tg-yw4l">Detect whether a user liked a product or not (classify their emotions positive or negative) based on their review's from the amazon product reviews dataset.</td>
+    <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/tree/main/classification">
+  here
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Wikipedia article's suggestion</td>
+    <td class="tg-yw4l">Suggest similar articles for a cetain one based on their content using wikipedia people dataset</td>
+    <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/tree/main/classification">
+  here
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Decision Tree Regression</td>
+    <td class="tg-yw4l">Splitting data by asking questions, yes those are decision trees.</td>
+    <td class="tg-yw4l"><a href="https://github.com/Neoxs/machine_learning_university_of_washington/tree/main/clustering">
+  here
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Movies Recommender systems</td>
+    <td class="tg-yw4l">In this notebook we tried to build diffrente recommender systems (popularity and collaborative filtering based) for movies recommendation using netflix rating dataset</td>
+    <td class="tg-yw4l"><a href="https://nbviewer.org/github/amdjedbens/ML_notebooks_implementation/blob/main/LogisticRegression.ipynb">
+  here
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">K-NN Regression</td>
+    <td class="tg-yw4l">k-nearest neighbors algorithm (it can be applied to both classification and regression problems).</td>
+    <td class="tg-yw4l"><a href="https://nbviewer.org/github/amdjedbens/ML_notebooks_implementation/blob/main/KNN_regression.ipynb">
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width = '100' >
+</a></td>
+  </tr>
+ 
+  </table>
